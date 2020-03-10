@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9081196b-3254-4837-95b0-6f2eab9a52cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/lib/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/lib/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/lib/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/lib/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/lib/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/lib/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/lib/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/lib/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/lib/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/lib/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/lib/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/lib/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/lib/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/lib/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/lib/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/lib/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/lib/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/lib/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/lib/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/lib/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/lib/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/lib/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/lib/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/lib/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/lib/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/lib/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/lib/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/lib/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/lib/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/lib/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/lib/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/lib/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/lib/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/lib/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/lib/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/lib/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/lib/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/lib/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/lib/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/lib/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/lib/vendor/composer" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/lib/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/lib/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/lib/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/lib/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/lib/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/lib/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/lib/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/lib/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/lib/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/lib/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/lib/vendor/psy/psysh" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1YlHIa1zILTZY8ZxU6dwVObm8nS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/frontend" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\mobile-store\resources\views\frontend" />
+      <recent name="D:\xampp\htdocs\mobile-store\public\editor" />
+      <recent name="D:\xampp\htdocs\mobile-store\public\layout\backend" />
+      <recent name="D:\xampp\htdocs\mobile-store\public\layout\backend\error" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\mobile-store\resources\views" />
+      <recent name="D:\xampp\htdocs\mobile-store\public\layout" />
+      <recent name="D:\xampp\htdocs\mobile-store\resources\views\backend" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9081196b-3254-4837-95b0-6f2eab9a52cd" name="Default Changelist" comment="" />
+      <created>1583510181703</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583510181703</updated>
+      <workItem from="1583510183037" duration="4932000" />
+      <workItem from="1583540811480" duration="30747000" />
+      <workItem from="1583650639814" duration="17982000" />
+      <workItem from="1583715843685" duration="15166000" />
+      <workItem from="1583766625066" duration="10158000" />
+      <workItem from="1583802165711" duration="13142000" />
+      <workItem from="1583852574117" duration="8984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="202" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583730687437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="539" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583730687437" />
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1583816562562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583816562562" />
+    <state x="524" y="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583544359694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="254" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1583544359694" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583584479138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583584479138" />
+    <state x="604" y="332" key="NewPhpFileDialog" timestamp="1583736350153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="332" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1583736350153" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1583859945255">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583859945255" />
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1583855122914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583855122914" />
+  </component>
+</project>
